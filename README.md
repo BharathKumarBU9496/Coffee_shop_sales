@@ -1,2 +1,2 @@
-# Coffee_shop_sales
+# Coffee_Shop_Sales
 MY SQL + Power BI Complete Project
