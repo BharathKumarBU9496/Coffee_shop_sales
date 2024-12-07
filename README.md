@@ -4,7 +4,7 @@ MY SQL + Power BI Complete Project
 
 Detailed step-by-step breakdown of each section and what it represents:
 
-Top Header with Filters and Total Metrics:
+**Top Header with Filters and Total Metrics:**
 
 **Month Selector:** Allows the user to select the month for which they want to view sales data. Currently set to April 2023.
 
