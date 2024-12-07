@@ -6,18 +6,18 @@ Detailed step-by-step breakdown of each section and what it represents:
 
 Top Header with Filters and Total Metrics:
 
-Month Selector: Allows the user to select the month for which they want to view sales data. Currently set to April 2023.
-Total Sales: $119K in total sales for the month, showing a 20.3% increase compared to the last month (LM) and a 24.1% increase year-over-year (YoY).
-Total Orders: 25,335 total orders placed, up 19.3% from LM and 4.1% from last year.
-Total Quantity Sold: 36,469 units sold, indicating a 19.9% increase from LM and 1.6% from last year.
+**Month Selector:** Allows the user to select the month for which they want to view sales data. Currently set to April 2023.
+**Total Sales:** $119K in total sales for the month, showing a 20.3% increase compared to the last month (LM) and a 24.1% increase year-over-year (YoY).
+**Total Orders:** 25,335 total orders placed, up 19.3% from LM and 4.1% from last year.
+**Total Quantity Sold:** 36,469 units sold, indicating a 19.9% increase from LM and 1.6% from last year.
 
 **Sales Trend Over the Period:**
 A bar chart showing daily sales throughout April, with each bar representing a day. Days are shaded differently for weekends and weekdays. Tooltips likely provide precise sales figures and comparison to previous periods when hovered over each bar.
-Sales by Weekday/Weekend:
 
+**Sales by Weekday/Weekend:**
 A donut chart displaying sales distribution between weekdays ($80K) and weekends ($39K), with weekends accounting for 33.08% of total sales.
-Sales by Product Category:
 
+**Sales by Product Category:**
 A breakdown of sales by different product categories such as Coffee, Tea, Bakery, and others. Each category shows the total sales amount and the percentage change from the previous month.
 Sales by Product (Top 10):
 
