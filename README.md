@@ -30,5 +30,5 @@ Sales by Days/Hours:
 A heatmap or table showing sales for each hour of each day of the week. This indicates peak sales times and helps in planning for staffing and stock.
 Tooltip Usage:
 
-You mentioned using tooltips for providing full information, which likely means when users hover over any data point (like bars in the sales trend chart, segments in the donut chart, or product names in the top 10 list), a tooltip appears providing more detailed data such as exact numbers, comparisons to previous periods, or other relevant details.
+using tooltips for providing full information, which likely means when users hover over any data point (like bars in the sales trend chart, segments in the donut chart, or product names in the top 10 list), a tooltip appears providing more detailed data such as exact numbers, comparisons to previous periods, or other relevant details.
 This dashboard effectively combines various visual elements like bar charts, donut charts, and tables to provide a clear, comprehensive view of sales performance across multiple dimensions. The use of color and the logical arrangement of information help in quick analysis and decision-making.
