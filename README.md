@@ -11,7 +11,7 @@ Total Sales: $119K in total sales for the month, showing a 20.3% increase compar
 Total Orders: 25,335 total orders placed, up 19.3% from LM and 4.1% from last year.
 Total Quantity Sold: 36,469 units sold, indicating a 19.9% increase from LM and 1.6% from last year.
 
-#Sales Trend Over the Period:
+**Sales Trend Over the Period:**
 A bar chart showing daily sales throughout April, with each bar representing a day. Days are shaded differently for weekends and weekdays. Tooltips likely provide precise sales figures and comparison to previous periods when hovered over each bar.
 Sales by Weekday/Weekend:
 
